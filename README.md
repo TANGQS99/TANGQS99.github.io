@@ -1,1 +1,1 @@
-# qmprecision.github.io
+# qmprecision
